@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35570ecb-8ba9-4598-8259-bda21ccfceb9": {
+      "ProjectGuid": "35570ecb-8ba9-4598-8259-bda21ccfceb9",
+      "DisplayName": "DemoWebsite",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
