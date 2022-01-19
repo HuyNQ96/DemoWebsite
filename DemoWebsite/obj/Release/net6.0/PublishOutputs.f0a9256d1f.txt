@@ -1,0 +1,7 @@
+H:\Code\Azure\DemoWebsite\DemoWebsite\obj\Release\net6.0\PubTmp\Out\DemoWebsite.exe
+H:\Code\Azure\DemoWebsite\DemoWebsite\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+H:\Code\Azure\DemoWebsite\DemoWebsite\obj\Release\net6.0\PubTmp\Out\appsettings.json
+H:\Code\Azure\DemoWebsite\DemoWebsite\obj\Release\net6.0\PubTmp\Out\DemoWebsite.dll
+H:\Code\Azure\DemoWebsite\DemoWebsite\obj\Release\net6.0\PubTmp\Out\DemoWebsite.deps.json
+H:\Code\Azure\DemoWebsite\DemoWebsite\obj\Release\net6.0\PubTmp\Out\DemoWebsite.runtimeconfig.json
+H:\Code\Azure\DemoWebsite\DemoWebsite\obj\Release\net6.0\PubTmp\Out\DemoWebsite.pdb
